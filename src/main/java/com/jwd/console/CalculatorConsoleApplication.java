@@ -1,7 +1,7 @@
 package com.jwd.console;
 
-import com.jwd.ecxeption.CalculatorConsoleApplicationException;
-import com.jwd.ecxeption.CalculatorValidatorException;
+import com.jwd.exception.CalculatorConsoleApplicationException;
+import com.jwd.exception.CalculatorValidatorException;
 import com.jwd.entity.ParameterSet;
 import com.jwd.service.Calculator;
 

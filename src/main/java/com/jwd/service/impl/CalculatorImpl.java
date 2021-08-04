@@ -1,6 +1,6 @@
 package com.jwd.service.impl;
 
-import com.jwd.ecxeption.CalculatorValidatorException;
+import com.jwd.exception.CalculatorValidatorException;
 import com.jwd.entity.ParameterSet;
 import com.jwd.service.Calculator;
 import com.jwd.validator.CalculatorParameterValidator;

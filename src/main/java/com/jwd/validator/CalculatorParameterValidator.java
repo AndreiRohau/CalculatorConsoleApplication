@@ -1,6 +1,6 @@
 package com.jwd.validator;
 
-import com.jwd.ecxeption.CalculatorValidatorException;
+import com.jwd.exception.CalculatorValidatorException;
 import com.jwd.entity.ParameterSet;
 
 import java.math.BigDecimal;
